@@ -1,9 +1,8 @@
 import jwt from 'jsonwebtoken'
-import dotenv from 'dotenv'
+
 import { TokenPayload } from '../interfaces/interfaces'
 
 
-dotenv.config()
 
 
 export class TokenManager {
