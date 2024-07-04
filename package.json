@@ -1,5 +1,5 @@
 {
-  "name": "botechia-dev-backend-1-project",
+  "name": "manager-colab-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
   },
   "keywords": [
-    "BOTECHIA-DEV-BACKEND-1-PROJECT"
+    "manager-colab-backend"
   ],
   "author": "botechia-dev <botechia.devloper@gmail.com>",
   "license": "MIT",
