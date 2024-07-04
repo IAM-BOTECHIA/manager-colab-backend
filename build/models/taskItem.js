@@ -9,4 +9,4 @@ class TaskItem {
         this.responsable = responsable;
     }
 }
-//# sourceMappingURL=task.js.map
+//# sourceMappingURL=taskItem.js.map

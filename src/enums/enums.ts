@@ -1,3 +1,8 @@
+// enum e um tipo de dado que so existe em TS
+
+/* ENUMS criam uma lista de valores com sentido semantico facil de ler e que sejam permitidos*/
+
+
 export enum ITEM_CATEGORIES{
     ex="EXERCICIOS",
     tp="PRATICAS",
@@ -28,3 +33,4 @@ export enum USER_ROLES {
     EMPLOYER="EMPLOYER",
     PUNISHED="PUNISHED"
 }
+
