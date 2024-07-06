@@ -1,4 +1,8 @@
-# botechia-dev-backend-1-project
+# MANAGER-COLAB-BACKEND  
 
 ## OVERVIEW
-- Construir backe-end em TS e compilado sem erros a js de um manager de tarefas, projetos e items para desenvolvedores
+- Construcao do backend de uma api de manager de gestao para varios contextos aplicados na vida de um DEV
+
+## EM BREVE + DETALHES
+
+## STATUS: 🚧 WIP: WORK IN PROGRESS...
